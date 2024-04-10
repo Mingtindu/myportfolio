@@ -1,0 +1,19 @@
+/* Custom CSS for About Me and Contact Me sections */
+#about {
+    background-color: #f3f4f6; /* Light gray background */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  #contact {
+    background-color: #f3f4f6; /* Light gray background */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  /* Custom CSS for page styling */
+
+/* Set background color for the entire page */
+body {
+    background-color: #ba8535; /* Light gray background color */
+  }
+  
